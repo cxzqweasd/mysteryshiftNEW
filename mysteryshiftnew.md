@@ -1,6 +1,6 @@
 {
 "geo":"NL,RU",
 "view":"https://meadow-land.info/FpSpfb4X?",
-"appsChecker":"1",
+"appsChecker":"2",
 "countrycodeCheck":"https://pro.ip-api.com/json/?key=Ip75nPrO8TTHQnS"
 }
